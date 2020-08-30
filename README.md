@@ -1,14 +1,14 @@
 # Nice to meet ya!
 
 ## About Me:
-Hey, I'm JFK. I'm a freelance software developer based out of the United States. Feel free to contact me on Discord [@RPM#2278](https://ares.codes/discord) or on [Telegram](https://t.me/realJFK)
+Hey, I'm JFK. I'm a freelance software developer based out of the United States. Feel free to contact me on Discord @RPM#2278 or on [Telegram](https://t.me/realJFK)
 
 ***
 
 ### Programming Languages
 These are the programming languages I typically use, I have more experience in some more than others, but these four typically cover my needs. <br><br>
 ![](https://img.shields.io/badge/Golang-informational?style=flat-square&logo=go&logoColor=white&color=9CCFF3)
-![](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=csharp&logoColor=white&color=2D0070)
+![](https://img.shields.io/badge/C%23-informational?style=flat-square&logo=c-sharp&logoColor=white&color=2D0070)
 ![](https://img.shields.io/badge/Python-informational?style=flat-square&logo=python&logoColor=white&color=3772A1)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat-square&logo=node.js&logoColor=white&color=689F63)
 
