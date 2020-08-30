@@ -1,7 +1,7 @@
 # Nice to meet ya!
 
 ## About Me:
-Hey, I'm JFK. I'm a freelance software developer based out of the United States. Feel free to contact me on Discord @RPM#2278 or on [Telegram](https://t.me/realJFK)
+Hey, I'm JFK. I'm a freelance software developer based out of the United States. Feel free to contact me on Discord [@RPM#2278](https://ares.codes/discord) or on [Telegram](https://t.me/realJFK)
 
 ***
 
