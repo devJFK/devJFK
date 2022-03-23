@@ -23,7 +23,7 @@ These are the operating systems I use on a daily basis. <br><br>
 
 ### Contact
 These are the means I like to be contacted the most. <br><br>
-[![Discord](https://img.shields.io/badge/Discord-RPM%232278-informational?style=flat-square&logo=discord&logoColor=white&color=7289da)](https://ares.codes/discord)
+[![Discord](https://img.shields.io/badge/Discord-JFK%230616-informational?style=flat-square&logo=discord&logoColor=white&color=7289da)](https://ares.codes/discord)
 [![Telegram](https://img.shields.io/badge/Telegram-@realJFK-informational?style=flat-square&logo=telegram&logoColor=white&color=0088cc)](https://t.me/realJFK)
 
 ***
