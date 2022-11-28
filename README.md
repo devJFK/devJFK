@@ -1,7 +1,7 @@
 # Nice to meet ya!
 
 ## About Me:
-Hey, I'm JFK. I'm a freelance software developer based out of the United States. Feel free to contact me on Discord @JFK#0616 or on [Telegram](https://t.me/realJFK)
+Hey, I'm JFK. I'm a freelance software developer. Feel free to contact me on Discord @JFK#1276 or on [Telegram](https://t.me/realJFK)
 
 ***
 
